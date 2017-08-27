@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Paragraphes</title>
+    </head>
+
+    <body>
+        <p>Bonjour et bienvenue sur mon projet d'informatisation des services documentaires !</p>
+        <p>Mon projet est divisé en plusieurs parties:  <p>
+
+            <p> 1) Un dossier documentaire sur la technologie X <p>
+            <p> 2) Un cahier des charges de mon future travail de fin d'études <p>
+            <p> 3) Deux réponses à des questions essentielles liés au cours d'informatisation des services documentaires <p>
+            <p> 4) Un kanban utilisé afin de réaliser les différents travaux cités <p>
+
+        <p> J'espère que la visite de mon projet vous sera agréable et je vous souhaite une agréable visite ! <p>
+    </body>
+</html>
